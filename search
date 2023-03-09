@@ -1,0 +1,14 @@
+<!DOCYPE html>
+
+<html lang="en">
+    <head>
+        <title> SEARCH </title>
+    </head>
+    <body>
+        <form action="https://google.com/search" method="get">
+            <input autocomplete="off" autofocus name="q" placeholder="Search" type="search">
+            <input type="submit" value="Google Search">
+        </form>
+    </body>
+
+</html>
